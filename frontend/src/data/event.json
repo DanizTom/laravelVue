@@ -1,0 +1,106 @@
+{
+    "healthCoaching": [
+        {
+            "imgSrc": "/images/event/570/event-1.jpg",
+            "title": "Consumer Food Safety Education Conference",
+            "date": "12",
+            "month": "jul",
+            "location": "Hamburg, Germany"
+        },
+        {
+            "imgSrc": "/images/event/170/event1.jpg",
+            "title": "How meditation improve your mental health?",
+            "date": "Aug 15, 2020",
+            "month": "aug",
+            "location": "Dubai"
+        },
+        {
+            "imgSrc": "/images/event/170/event2.jpg",
+            "title": "Dialogue for Action on Cancer Screening and Prevention",
+            "date": "May 18, 2020",
+            "month": "may",
+            "location": "Washington DC, US"
+        },
+        {
+            "imgSrc": "/images/event/170/event3.jpg",
+            "title": "Workout routine and Longevity Meetup",
+            "date": "mar 24, 2020",
+            "month": "mar",
+            "location": "Birmingham, England"
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "imgSrc": "/images/event/370/event1.jpg",
+            "alt": "event image",
+            "date": "Nov 22, 2020",
+            "title": "Storytelling Workshop 2020",
+            "location": "Texas, US"
+        },
+        {
+            "id": 2,
+            "imgSrc": "/images/event/370/event2.jpg",
+            "alt": "event image",
+            "date": "Oct 10, 2020",
+            "title": "Painting Art Contest 2020",
+            "location": "New York, US"
+        },
+        {
+            "id": 3,
+            "imgSrc": "/images/event/370/event3.jpg",
+            "alt": "event image",
+            "date": "Dec 25, 2020",
+            "title": "International Art Fair 2020",
+            "location": "Hamburg, Germany"
+        },
+        {
+            "id": 4,
+            "imgSrc": "/images/event/370/event4.jpg",
+            "alt": "event image",
+            "date": "Jan 20, 2020",
+            "title": "Consumer Food Safety Education",
+            "location": "Illinois, US"
+        },
+        {
+            "id": 5,
+            "imgSrc": "/images/event/370/event5.jpg",
+            "alt": "event image",
+            "date": "Apr 28, 2020",
+            "title": "Street Performance: Call for Artist",
+            "location": "Chicago, US"
+        },
+        {
+            "id": 6,
+            "imgSrc": "/images/event/370/event6.jpg",
+            "alt": "event image",
+            "date": "Mar 10, 2020",
+            "title": "How meditation improve your mental health?",
+            "location": "Washington DC, US"
+        },
+        {
+            "id": 7,
+            "imgSrc": "/images/event/370/event7.jpg",
+            "alt": "event image",
+            "date": "Sep 25, 2020",
+            "title": "Dialogue for Action on Cancer Screening and Prevention",
+            "location": " Hamburg, Germany"
+        },
+        {
+            "id": 8,
+            "imgSrc": "/images/event/370/event8.jpg",
+            "alt": "event image",
+            "date": "Dec 18, 2020",
+            "title": "Workout routine and Longevity Meetup",
+            "location": "New York, US"
+        },
+        {
+            "id": 9,
+            "imgSrc": "/images/event/370/event9.jpg",
+            "alt": "event image",
+            "date": "Nov 22, 2020",
+            "title": "Learning Counsel Digital Transition Discussion Event – Chicago",
+            "location": " Texas, US"
+        }
+    ]
+}

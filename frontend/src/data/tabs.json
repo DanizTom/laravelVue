@@ -1,0 +1,28 @@
+{
+    "name": "Maggie Strickland",
+    "position": "Advanced Educator",
+    "text": "Maggie is a brilliant educator, whose life was spent for computer science and love of nature. Being a female, she encountered a lot of obstacles and was forbidden to work in this field by her family. With a true spirit and talented gift, she was able to succeed and set an example for others.",
+    "imgSrc": "/images/profile/profile.jpeg",
+    "socialLink": [
+        {
+            "icon": "fab fa-twitter",
+            "url": "www.twitter.com"
+        },
+        {
+            "icon": "fab fa-twitter",
+            "url": "www.twitter.com"
+        },
+        {
+            "icon": "fab fa-twitter",
+            "url": "www.twitter.com"
+        },
+        {
+            "icon": "fab fa-twitter",
+            "url": "www.twitter.com"
+        },
+        {
+            "icon": "fab fa-twitter",
+            "url": "www.twitter.com"
+        }
+    ]
+}

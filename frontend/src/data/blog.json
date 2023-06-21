@@ -1,0 +1,138 @@
+{
+    "healthBlogs": [
+        {
+            "imgSrc": "/images/blog/270-masonry/blog-1.jpg",
+            "category": "Health Coaching",
+            "title": "Why Do I Need a Health Coach?",
+            "desc": "A health coach is somebody who can guide your behavior change. Here’s…"
+        },
+        {
+            "imgSrc": "/images/blog/270-masonry/blog-2.jpg",
+            "category": "Health Coaching",
+            "title": "Food Label Claims: Separating Fact from Fiction",
+            "desc": "Some product claims are driven more by marketing than health, so while…"
+        },
+        {
+            "imgSrc": "/images/blog/270-masonry/blog-3.jpg",
+            "category": "Health Coaching",
+            "title": "Why Mindful Eating is Key to Emotional Wellness",
+            "desc": "Have you ever thought about how often you make decisions about your…"
+        },
+        {
+            "imgSrc": "/images/blog/270-masonry/blog-4.jpg",
+            "category": "Health Coaching",
+            "title": "Why Do I Need a Health Coach?",
+            "desc": "Furthermore, women are less likely than men to get the recommended amount…"
+        }
+    ],
+
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Brush Strokes Energize Trees in Paintings",
+            "category": "Artist",
+            "imgSrc": "/images/blog/370/blog-10.jpg",
+            "alt": "blog image",
+            "date": "Apr 06, 2020",
+            "view": "46 views"
+        },
+        {
+            "id": 2,
+            "title": "Pocket-Sized Notebooks Hold Miniature Paintings",
+            "category": "Lifestyle",
+            "imgSrc": "/images/blog/370/blog-11.jpg",
+            "alt": "blog image",
+            "date": "May 12, 2020",
+            "view": "50 views"
+        },
+        {
+            "id": 3,
+            "title": "Connection Between Self-Portraits and Identity",
+            "category": "Artist",
+            "imgSrc": "/images/blog/370/blog-12.jpg",
+            "alt": "blog image",
+            "date": "Jun 18, 2020",
+            "view": "86 views"
+        },
+        {
+            "id": 4,
+            "title": "10 Essential Bodyweight Exercises",
+            "category": "GYM COACHING",
+            "imgSrc": "/images/blog/370/blog-1.jpg",
+            "alt": "blog image",
+            "date": "Nov 25, 2020",
+            "view": "31 views"
+        },
+        {
+            "id": 5,
+            "title": "How to Keep Workouts Fresh in the New Year",
+            "category": "Artist",
+            "imgSrc": "/images/blog/370/blog-2.jpg",
+            "alt": "blog image",
+            "date": "Sep 26, 2020",
+            "view": "45 views"
+        },
+        {
+            "id": 6,
+            "title": "15 RD-Approved Foods to Support a Healthy",
+            "category": "Health Coaching",
+            "imgSrc": "/images/blog/370/blog-3.jpg",
+            "alt": "blog image",
+            "date": "Dec 12, 2020",
+            "view": "14 views"
+        }
+    ],
+
+    "blogClassic": [
+        {
+            "id": 1,
+            "title": "10 Essential Bodyweight Exercises",
+            "category": "Gym Coaching",
+            "imgSrc": "/images/blog/770/blog-1.jpg",
+            "alt": "blog image",
+            "date": "Apr 06, 2020",
+            "view": "46 views",
+            "avatar": "/images/blog/blog-avatar.jpg",
+            "name": "Owen Christ",
+            "desc": "Essential bodyweight exercises are crucial to a well-rounded training routine because they’re versatile and can be done anywhere"
+        },
+        {
+            "id": 2,
+            "title": "How to Keep Workouts Fresh in the New Year",
+            "category": "Gym Coaching",
+            "imgSrc": "/images/blog/770/blog-2.jpg",
+            "alt": "blog image",
+            "date": "May 12, 2020",
+            "view": "50 views",
+            "avatar": "/images/blog/blog-avatar.jpg",
+            "name": "Owen Christ",
+            "desc": "Instead, begin the new year by considering four simple ways to refresh your classes that will prove equally beneficial for you, your faithful front row, and your fresh-faced resolution...."
+        },
+        {
+            "id": 3,
+            "title": "15 RD-Approved Foods to Support a Healthy Immune System",
+            "category": "Gym Coaching",
+            "imgSrc": "/images/blog/770/blog-3.jpg",
+            "alt": "blog image",
+            "date": "Jun 18, 2020",
+            "view": "86 views",
+            "avatar": "/images/blog/blog-avatar.jpg",
+            "name": "Owen Christ",
+            "desc": "While quality sleep, regular exercise, proper hand-washing and social distancing are all important factors that contribute to a healthy immune system, the foods you eat can also play a key role"
+        }
+    ],
+
+    "tags": [
+        "course", 
+        "education",
+        "general",
+        "gym coaching",
+        "health coaching",
+        "learning",
+        "methodology",
+        "online",
+        "pinterest",
+        "strategies",
+        "teaching"
+    ]
+}

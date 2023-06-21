@@ -1,0 +1,198 @@
+[
+    {
+        "imgSrc": "/images/team/350/team-member-01.jpg",
+        "name": "Merrie Lewis",
+        "position": "General Director",
+        "role": "admin",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/350/team-member-02.jpg",
+        "name": "Mariana Buenos",
+        "position": "CEO & Chief Manager",
+        "role": "admin",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/350/team-member-03.jpg",
+        "name": "Parks Missie",
+        "position": "Course Researcher",
+        "role": "admin",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/270/team-member-04.jpg",
+        "name": "Parks Missie",
+        "position": "Course Researcher",
+        "role": "employee",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/270/team-member-05.jpg",
+        "name": "Parks Missie",
+        "position": "Course Researcher",
+        "role": "employee",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/270/team-member-06.jpg",
+        "name": "Parks Missie",
+        "position": "Course Researcher",
+        "role": "employee",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/270/team-member-07.jpg",
+        "name": "Parks Missie",
+        "position": "Course Researcher",
+        "role": "employee",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "https://www.facebook.com"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "https://www.twitter.com"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "https://www.instagram.com"
+            },
+            {
+                "name": "Youtube",
+                "iconName": "fab fa-youtube",
+                "url": "https://www.youtube.com"
+            }
+        ]
+    }
+]

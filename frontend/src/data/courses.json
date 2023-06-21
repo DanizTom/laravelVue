@@ -1,0 +1,225 @@
+{
+    "coursePostItem": [
+        {
+            "id": 1,
+            "image": "/images/courses/370/course-1.jpg",
+            "date": "Jan 15, 2020",
+            "price": "$40",
+            "title": "Learning to Write as a Professional Author",
+            "lessons": "20 Lessons",
+            "students": "51 Students",
+            "avatar": "/images/courses/course-avatar.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 2,
+            "image": "/images/courses/370/course-2.jpg",
+            "date": "Jun 18, 2020",
+            "price": "Free",
+            "title": "Customer-centric Info-Tech Strategies",
+            "lessons": "40 Lessons",
+            "students": "80 Students",
+            "avatar": "/images/courses/course-avatar2.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 3,
+            "image": "/images/courses/370/course-3.jpg",
+            "date": "Mar 19, 2020",
+            "price": "$19",
+            "title": "Open Programming Courses for Everyone: Python",
+            "lessons": "16 Lessons",
+            "students": "57 Students",
+            "avatar": "/images/courses/course-avatar.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 4,
+            "image": "/images/courses/370/course-4.jpg",
+            "date": "Aug 13, 2020",
+            "price": "$26",
+            "title": "Academic Listening and Note-taking",
+            "lessons": "20 Lessons",
+            "students": "51 Students",
+            "avatar": "/images/courses/course-avatar2.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 5,
+            "image": "/images/courses/370/course-5.jpg",
+            "date": "Dec 20, 2020",
+            "price": "$40",
+            "title": "Master jQuery in a Short Period of Time",
+            "lessons": "20 Lessons",
+            "students": "51 Students",
+            "avatar": "/images/courses/course-avatar.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 6,
+            "image": "/images/courses/370/course-6.jpg",
+            "date": "Nov 22, 2020",
+            "price": "Free",
+            "title": "Introduction to Javascript for Beginners",
+            "lessons": "40 Lessons",
+            "students": "80 Students",
+            "avatar": "/images/courses/course-avatar2.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 7,
+            "image": "/images/courses/370/course-7.jpg",
+            "date": "Sep 25, 2020",
+            "price": "$19",
+            "title": "Problem-solving Skills for Better Success",
+            "lessons": "16 Lessons",
+            "students": "57 Students",
+            "avatar": "/images/courses/course-avatar.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 8,
+            "image": "/images/courses/370/course-8.jpg",
+            "date": "Jul 15, 2020",
+            "price": "$35",
+            "title": "Speed Reading Techniques in University",
+            "lessons": "36 Lessons",
+            "students": "45 Students",
+            "avatar": "/images/courses/course-avatar2.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 9,
+            "image": "/images/courses/370/course-9.jpg",
+            "date": "Feb 18, 2020",
+            "price": "$95",
+            "title": "Database & SQL for Computer Science",
+            "lessons": "25 Lessons",
+            "students": "42 Students",
+            "avatar": "/images/courses/course-avatar.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 10,
+            "image": "/images/courses/370/course-10.jpg",
+            "date": "Apr 28, 2020",
+            "price": "$49",
+            "title": "Intermediate English Speaking Practice",
+            "lessons": "65 Lessons",
+            "students": "70 Students",
+            "avatar": "/images/courses/course-avatar2.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 11,
+            "image": "/images/courses/370/course-11.jpg",
+            "date": "Jun 10, 2020",
+            "price": "$29",
+            "title": "Complete Fitness Trainer: Beginner to Advanced",
+            "lessons": "16 Lessons",
+            "students": "57 Students",
+            "avatar": "/images/courses/course-avatar.jpeg",
+            "instructorName": "Blanche Fields"
+        },
+        {
+            "id": 12,
+            "image": "/images/courses/370/course-12.jpg",
+            "date": "Mar 18, 2020",
+            "price": "$36",
+            "title": "Lazy Dancer Ballet Burn – 30 days programme",
+            "lessons": "15 Lessons",
+            "students": "23 Students",
+            "avatar": "/images/courses/course-avatar2.jpeg",
+            "instructorName": "Blanche Fields"
+        }
+    ],
+
+    "sidebar": {
+        "price": {
+            "icon": "far fa-money-bill-wave",
+            "label": "Price",
+            "value": "Free"
+        },
+        "instructor": {
+            "icon": "far fa-chalkboard-teacher",
+            "label": "Instructor",
+            "value": "Maggie Strickland"
+        },
+        "duration": {
+            "icon": "far fa-clock",
+            "label": "Duration",
+            "value": "15 weeks"
+        },
+        "lectures": {
+            "icon": "far fa-clock",
+            "label": "Lectures",
+            "value": "24"
+        },
+        "enrolled": {
+            "icon": "far fa-user-alt",
+            "label": "Enrolled",
+            "value": "629 students"
+        },
+        "Language": {
+            "icon": "far fa-language",
+            "label": "Language",
+            "value": "English"
+        },
+        "Deadline": {
+            "icon": "far fa-calendar",
+            "label": "Deadline",
+            "value": "05 Jan 2019"
+        },
+        "socialLink": [
+            {
+                "icon": "fab fa-twitter",
+                "url": "www.twitter.com"
+            },
+            {
+                "icon": "fab fa-facebook-f",
+                "url": "www.facebook.com"
+            },
+            {
+                "icon": "fab fa-instagram",
+                "url": "www.instagram.com"
+            },
+            {
+                "icon": "fab fa-pinterest",
+                "url": "www.pinterest.com"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "url": "www.youtube.com"
+            }
+        ]
+    },
+    
+    "instructor": {
+        "name": "Maggie Strickland",
+        "position": "Advanced Educator",
+        "text": "Maggie is a brilliant educator, whose life was spent for computer science and love of nature. Being a female, she encountered a lot of obstacles and was forbidden to work in this field by her family. With a true spirit and talented gift, she was able to succeed and set an example for others.",
+        "imgSrc": "/images/profile/profile.jpeg",
+        "socialLink": [
+            {
+                "icon": "fab fa-twitter",
+                "url": "www.twitter.com"
+            },
+            {
+                "icon": "fab fa-facebook-f",
+                "url": "www.facebook.com"
+            },
+            {
+                "icon": "fab fa-instagram",
+                "url": "www.instagram.com"
+            },
+            {
+                "icon": "fab fa-pinterest",
+                "url": "www.pinterest.com"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "url": "www.youtube.com"
+            }
+        ]
+    }
+}

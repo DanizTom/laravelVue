@@ -1,0 +1,103 @@
+{
+  "name": "vue-jwt-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/vue-fontawesome": "^0.1.7",
+    "@lossendae/vue-avatar": "^0.1.5",
+    "@lossendae/vue-table": "^0.1.8",
+    "@vue-stripe/vue-stripe": "^4.4.4",
+    "@zoomus/websdk": "^2.3.5",
+    "aos": "^2.3.4",
+    "axios": "^1.4.0",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.11.0",
+    "dns": "^0.1.2",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^9.17.1",
+    "firebase-auth": "^0.1.2",
+    "jquery": "^3.4.1",
+    "kalendar-vue": "^2.1.1",
+    "net": "^1.0.2",
+    "nodemailer": "^6.7.2",
+    "parallax-js": "^3.1.0",
+    "popper.js": "^1.15.0",
+    "portal-vue": "^2.1.7",
+    "smtpjs": "^0.0.1",
+    "snapdragon": "^0.12.1",
+    "sockjs-client": "^1.5.2",
+    "stripe": "^10.7.0",
+    "v-idle": "^0.2.1",
+    "vee-validate": "^2.2.15",
+    "vue": "^2.6.10",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-backtotop": "^1.6.1",
+    "vue-fontawesome": "0.0.2",
+    "vue-form-generator": "^2.3.4",
+    "vue-inline-svg": "^2.0.0",
+    "vue-material": "^1.0.0-beta-11",
+    "vue-material-design-icons": "^4.4.0",
+    "vue-multiselect": "^2.1.6",
+    "vue-router": "^3.0.3",
+    "vue-search-select": "^2.9.3",
+    "vue-select": "^3.4.0",
+    "vue-silentbox": "^2.4.5",
+    "vue-stripe-checkout": "^3.5.15",
+    "vue-textarea-autosize": "^1.1.1",
+    "vue2-google-maps": "^0.10.7",
+    "vuetify": "^2.2.22",
+    "vuex": "^3.0.1",
+    "webstomp-client": "^1.2.6"
+  },
+  "devDependencies": {
+    "@mdi/font": "^4.9.95",
+    "@mdi/js": "^4.9.95",
+    "@nuxtjs/color-mode": "^2.1.1",
+    "@types/nodemailer": "^6.4.4",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "material-design-icons-iconfont": "^5.0.1",
+    "sass": "^1.42.1",
+    "sass-loader": "^10.2.0",
+    "vue-avatar-component": "^1.2.6",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.2.2",
+    "webpack": "^5.83.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "no-console": "off"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
